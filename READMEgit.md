@@ -28,7 +28,7 @@ Removes the master from the directory.
 
 Show a log of the commits done and the CommitId of the commits. This is the leading characters of the changeset ID, up to 10, but must be unique.
 
-### git add . or <file>
+### git add . or <"filename">
 
 Add one or more files to staging.
 
